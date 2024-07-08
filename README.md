@@ -1,3 +1,4 @@
+[![Board Status](https://keebler1.visualstudio.com/96e4b22a-785e-42b3-8b2b-66afa3252da1/4a96b761-199e-47b7-9844-4efa9a07e572/_apis/work/boardbadge/c935f4a0-4d67-4e01-9a91-c568b66f1769)](https://keebler1.visualstudio.com/96e4b22a-785e-42b3-8b2b-66afa3252da1/_boards/board/t/4a96b761-199e-47b7-9844-4efa9a07e572/Microsoft.RequirementCategory)
 # ⚡ Azure Visualizer, aka 'AzViz' 
 
 [![PowerShell Gallery][psgallery-version-badge]][psgallery] [![PowerShell Gallery][psgallery-badge]][psgallery] [![GitHub issues][github-issues-badge]][github-issues] [![CI][github-action-ci-badge]][github-action-ci] [![Documentation Status][docs-badge]][docs] [![License][license-badge]][license]
